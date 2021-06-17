@@ -9,5 +9,5 @@
 ## API specs:
 - GET, POST, DELETE methods
 - Async, await
--
+- Entity framework
 -
